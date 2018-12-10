@@ -1,6 +1,7 @@
 # DueloDeCampeoes
 
-A college work done for Programming Lab discipline, all project is in portuguease language. Created by me and my friend Flavio Nunes Barbosa.
+A college work done for Programming Lab discipline, all project is in portuguease language. Created by me and my friend Flavio Nunes Barbosa.<br>
+
 <img src="imgs/gamegif.gif"/>
 
 <h3>The attributes like damage and critical hit chance of each class is calculated based on their main attribute values and weapon equipped:</h3>
